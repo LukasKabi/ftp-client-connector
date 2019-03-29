@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Consumer;
 
-import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang.StringUtils;
 
 import com.jcraft.jsch.JSchException;
 import com.jcraft.jsch.SftpException;
